@@ -1,5 +1,6 @@
 # 聚合服务接口约定
 ### 注册服务接口
+将微服务注册到该聚合项目中.
 ~~~ 
 PATH: /api/admin/spider 
 METHOD: POST 
